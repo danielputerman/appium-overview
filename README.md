@@ -7,7 +7,7 @@ https://github.com/appium/appium/tree/master/sample-code/examples/
 
 There are two scripts:
 * `appium_example.rb`: A scripts which creates two notes, then edits a note and clears it.
-* `appium_eyes_example.rb`: Same as appium_example.rb, but also includes visual validation using Applitools eyes. Notice in order for this script to work you need to have *a valid API key* from applitools (you receive it on signup).
+* `appium_eyes_example.rb`: Same as appium_example.rb, but also includes visual validation using Applitools eyes. Notice in order for this script to work you need to have *a valid API key* from "Applitools":http://www.applitools.com (you receive it on signup).
 
 
 
