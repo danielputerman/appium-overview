@@ -2,7 +2,7 @@ This is the example code for the Appium overview presentation I've given on the 
 
 http://www.meetup.com/Selenium-Israel/events/163313472/
 
-The examples where for automating the Notes application for Android, and was based on the examples given on the appium repository:
+The examples were for automating the Notes application for Android, and was based on the examples given on the appium repository:
 https://github.com/appium/appium/tree/master/sample-code/examples/
 
 There are two scripts:
